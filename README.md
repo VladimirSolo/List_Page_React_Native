@@ -2,7 +2,7 @@
 
 # Example
 
-![](assets/maket.PNG)
+![](assets/photo.PNG)
 
 # Application development plan:
 

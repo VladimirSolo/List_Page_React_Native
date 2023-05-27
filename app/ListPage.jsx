@@ -19,7 +19,7 @@ const ListPage = ({ route }) => {
           <Table className="border-2 border-cyan-500">
             <Row
               className="h-12 text-center bg-slate-300"
-              data={["name", "surename", "company"]}
+              data={["first-name", "last-name", "company"]}
             />
             {filteredData.map((item) => (
               <Rows
